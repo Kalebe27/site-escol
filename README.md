@@ -1,1 +1,1 @@
-# site-escol
+# site-escola-criativo
