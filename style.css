@@ -1,8 +1,4 @@
-.cabecalho {
-    background-color: #0C4B6F;
-    color: aliceblue;
-}
-
-.cabecalho-imagem{
-    width: 20%;
+header{
+    background-color: #5688C3;
+    color: rgb(255, 255, 255);
 }
